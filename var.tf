@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "ecskeypair"
+    default = "jenkisnserverkey"
 }
 
 # variable "vpc_id" {
